@@ -1,0 +1,10 @@
+id,type,name,status,description,startDate,duration,epic
+1,TASK,task1,NEW,example,10.01.2022 09:30,PT30M
+2,TASK,task2,IN_PROGRESS,task 2,10.01.2022 11:30,PT30M
+3,EPIC,epic1,DONE,Финальное задание спринт 2,10.02.2022 09:30,PT1H30M
+4,EPIC,epic2,NEW,Обучение Java,01.01.2100 00:00,PT0S
+5,SUBTASK,sub1,DONE,Разработка приложения,10.02.2022 09:30,PT30M,3
+6,SUBTASK,sub2,DONE,Теория,11.02.2022 09:30,PT30M,3
+7,SUBTASK,sub3,DONE,Практические задания,11.02.2022 09:45,PT30M,3
+
+1,
